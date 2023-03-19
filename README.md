@@ -8,4 +8,4 @@ This project involves building a movie recommendation system using the cosine si
 The recommendation system takes a movie name as input and suggests movies similar to it based on their similarity score. The similarity score is calculated using the cosine similarity metric.
 The system also has a feature to correct spelling mistakes in the user's input. It uses the difflib library to get the closest match from the list of all movie titles.
 
-<h4>!! Finally, The system will suggest the top 20 similar movies based on the cosine similarity metric.</h4>
+<h4> !! Finally, The system will suggest the top 20 similar movies based on the Cosine Similarity Metric.</h4>
